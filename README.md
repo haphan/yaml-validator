@@ -1,7 +1,7 @@
 ###About
-This is a YAML validator tool runs in console to validate yaml file  compiliant with YAML 1.2 spec.
+This is a console YAML validator tool validating compliant with YAML 1.2 spec.
 
-This tool employs js-yaml as validator engine.
+This tool employs js-yaml as validator engine. 
 
 ###Installation
 
