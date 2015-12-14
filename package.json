@@ -1,0 +1,15 @@
+{
+  "name": "hp-yaml-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yml-lint.js",
+  "dependencies": {
+    "js-yaml": "^3.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

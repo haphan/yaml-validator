@@ -1,0 +1,4 @@
+my_service:
+    class: MyProject\MyClass
+    arguments:
+        - @my_other_service
