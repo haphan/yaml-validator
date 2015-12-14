@@ -17,7 +17,7 @@ $ chmod +x yml-lint.js
 Single file validation
 
 ```bash
-$ node yml-lint.js file.yml
+$ node yml-lint.js wrong.yml
 ```
 
 To validate multiple file recursively in `src` directory
