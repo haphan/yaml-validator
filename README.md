@@ -20,7 +20,7 @@ Single file validation
 $ node yml-lint.js wrong.yml
 ```
 
-To validate multiple file recursively in `src` directory
+To validate multiple files recursively in `src` directory
 
 ```bash
 $ find src -name '*.yml' -exec js-yaml.js {} \
